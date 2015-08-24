@@ -28,6 +28,8 @@ Don't forget to validate activation of the new module.
 
 Here you go, you now have for every song full lyrics and last.fm scrobbling
 
+T. Stassin
+
 Credits to great work from :
 
 Fujirou http://fujirou2.blogspot.be/2013/02/lyricwiki-complete-lyric-lyrics-module.html
