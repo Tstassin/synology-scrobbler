@@ -23,7 +23,7 @@ class FujirouLyricWiki {
 	}
 
 	public function getLyricsList($artist, $title, $info) {
-		 $scrobbler = new md_Scrobbler('BaBaTiKiDo', 'last.fm&2014');
+		 $scrobbler = new md_Scrobbler('USER', 'PASSWORD');
 		 $scrobbler->add($artist, $title, '', 60);
 		 $scrobbler->submit();
 		 return $this->search($info, $artist, $title);
